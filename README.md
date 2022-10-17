@@ -1,5 +1,5 @@
 [![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=2000)](https://piyush1856.io)
-<h1 align="center">Hi 👋, I'm Piyush Tyagi</h1>
+<h1 align="center">Hi 👋, I'm Akash Roy</h1>
 <h3 align="center">A passionate JAVA Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **JAVA | SQL | MySQL | Hibernate | AWS | SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://piyush1856.github.io/](https://piyush1856.github.io/)
+- 👨‍💻 All of my projects are available at [https://akash1122r.github.io/](https://akash1122r.github.io/)
 
 - 💬 Ask me about **HTML | CSS | JavaScript | JAVA**
 
-- 📫 How to reach me **piyushtyagi28@hotmail.com**
+- 📫 How to reach me **akashsingh4321a@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1y9UBGaPEpqSIZj2k0gEqBeqLMbywtbem](https://drive.google.com/drive/u/0/folders/1y9UBGaPEpqSIZj2k0gEqBeqLMbywtbem)
 
