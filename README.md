@@ -60,11 +60,11 @@
 
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akashr1122&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akashr1122&theme=solarized_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashr1122&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashr1122&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashr1122&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashr1122&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashr1122&theme=solarized_dark&utcOffset=8">
 	
 </p>
 
@@ -160,8 +160,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=Akashr1122&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashr1122&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=akashr1122&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akashr1122&theme=algolia" />
 </p>
 
 
@@ -176,7 +176,7 @@
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=Akashr1122&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=akashr1122&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
