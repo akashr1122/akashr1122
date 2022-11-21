@@ -160,8 +160,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=Piyushfromit&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushfromit&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akashr1122&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashr1122&theme=algolia" />
 </p>
 
 
