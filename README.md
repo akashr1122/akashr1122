@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning     **SQL, JDBC, LLD, AWS,Springboot** at Masai School.
 - 💬 Ask me about     **Java, JavaScript, HTML, CSS**
 - 👨‍💻 This is [My Portfolio](https://akashr1122.github.io/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1EvBHihvRxjHW00zP09smySCCJ1zxLG1M/view?usp=sharing)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1mL-lyBw2kcTrJNR8K3bR_qylV8jO2ofM/view?usp=share_link)
 - 📫 How to reach me:   **akashsingh4321a@gmail.com**
 
 
