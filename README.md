@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=2000)](https://piyush1856.io)
+<!-- [![MasterHead](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=2000)](https://piyush1856.io) -->
 <h1 align="center">Hi 👋, I'm Akash Roy</h1>
 <h3 align="center">A passionate JAVA Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
