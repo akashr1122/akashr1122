@@ -77,9 +77,9 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://img.icons8.com/color/344/amazon-web-services.png" width="48" height="48" alt="AWS" />
+        <img src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" width="48" height="48" alt="Springboot" />
       </a>
-      <br>AWS
+      <br>Springboot
     </td>
     <td align="center" width="96">
       <a href="#css3">
