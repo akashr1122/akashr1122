@@ -95,29 +95,36 @@
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="javascript" />
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Mysql" />
       </a>
       <br>MySQL
     </td>
    
   </tr>
+	<tr>
    <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html" />
       </a>
-      <br>Html5
+      <br>Html
     </td>
        <td align="center" width="96">
       <a href="#css3">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
       </a>
-      <br>CSS3
+      <br>CSS
     </td>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://img.icons8.com/color/344/javascript--v1.png" width="48" height="48" alt="Laravel" />
       </a>
       <br>JavaScript
+    </td>
+		<td align="center" width="96">
+      <a href="#laravel">
+        <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1489714432/postman.png" width="48" height="48" alt="postman" />
+      </a>
+      <br>Postman
     </td>
   </tr>
    <tr>
