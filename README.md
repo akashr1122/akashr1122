@@ -99,12 +99,12 @@
       </a>
       <br>MySQL
     </td>
-<!--      <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
-    </td> -->
+    </td>
   </tr>
    <td align="center" width="96">
       <a href="#html5">
