@@ -82,7 +82,7 @@
       <br>Springboot
     </td>
     <td align="center" width="96">
-      <a href="#css3">
+      <a href="https://hibernate.org/orm/documentation/6.1/">
         <img src="https://img.icons8.com/color/344/hibernate--v1.png" width="48" height="48" alt="Hibernate" />
       </a>
       <br>Hibernate
