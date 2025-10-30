@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;backened+developer;fullstack+developer" > 
 </p> -->
 
-<h3 align="center">A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
+<h3 align="center">A Passionate Node Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.</h3>
 
 
 
@@ -18,8 +18,7 @@
 <img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966">
 
 - 🔭 I’m currently working on   Backend and Frontend technologies 😅
-- 🌱 I’m currently learning     **SQL, JDBC, LLD, AWS,Springboot** at Masai School.
-- 💬 Ask me about     **Java, JavaScript, HTML, CSS**
+- 💬 Ask me about     **Java,JavaScript,Node js, React js,MongoDB,Sql,Postgress Sql, HTML, CSS**
 - 👨‍💻 This is [My Portfolio](https://akashr1122.github.io/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/1mL-lyBw2kcTrJNR8K3bR_qylV8jO2ofM/view?usp=share_link)
 - 📫 How to reach me:   **akashsingh4321a@gmail.com**
